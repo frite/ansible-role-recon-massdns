@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/frite/ansible-role-recon-massdns.svg?branch=master)](https://travis-ci.com/frite/ansible-role-recon-massdns)
 
-Role Name
+recon_massdns
 =========
 
 Role to handle massdns installation.
