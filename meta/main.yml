@@ -1,0 +1,33 @@
+---
+galaxy_info:
+  author: Manolis Mavrofidis
+  description: Ansible role to install massdns
+  company: The internetz
+  license: BSD
+
+  min_ansible_version: 1.8
+  github_branch: master
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - xenial
+        - bionic
+        - disco dingo
+        - eoan
+    - name: Debian
+      versions:
+        - buster
+    - name: EL
+      versions:
+        - 7
+        - 8
+
+  galaxy_tags:
+    - user
+    - package
+    - recon
+    - security
+    - massdns
+
+dependencies: []
